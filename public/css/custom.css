@@ -1,0 +1,24 @@
+td {
+	background-color: #eee;
+}
+
+.nav a {
+	color: #5a5a5a;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.nav li {
+	display: inline;
+}
+
+body {
+	font-family: "微軟正黑體";
+	font-size: 16px;
+}
+
+.footer	{
+	font-size: 13px;
+	text-align:center
+}
